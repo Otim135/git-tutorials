@@ -17,8 +17,8 @@ b) Normal
 
 c) UnderWeight
 
-This is the last edit 
+# Results Interpretation
 
-Thank You!
-
-# We've created a new branch called new-features 
+If BMI is > 25 Overweight
+if BMI is < 18 Underweght
+If BMI is between 18 -25 Normal 
